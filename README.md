@@ -5,3 +5,4 @@ Code based on Amazon's [AWSS3SigV4JavaSamples.jar](https://s3.amazonaws.com/aws-
 
 http://docs.aws.amazon.com/AmazonS3/latest/API/sig-v4-examples-using-sdks.html#sig-v4-examples-using-sdk-java
 
+Referenced by [Ceph issue #21128](http://tracker.ceph.com/issues/21128)
